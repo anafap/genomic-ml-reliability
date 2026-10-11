@@ -1,0 +1,27 @@
+
+# Data processing
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+
+# Scientific computing
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Genomics data processing
+biopython
+
+# Jupyter environment
+jupyterlab
+ipykernel
+
+# Testing
+pytest
+
+# Environment configuration
+python-dotenv
